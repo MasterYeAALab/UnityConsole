@@ -1,5 +1,6 @@
 {
 "id":"Test",
-"progress":300,
+"progressFrom":0,
+"progressTo":300,
 "endDate":"2226/06/03"
 }
